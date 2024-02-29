@@ -34,5 +34,5 @@ object_classes: "boat", "person"
 
 Give me formatted json for the potential classes:
 
-
+![alt text](image.png)
 https://developers.planet.com/docs/planetschool/geojson-and-areas-of-interest-aois/
